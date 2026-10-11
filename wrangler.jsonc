@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "redlap-home",
+	"name": "goredlap-home",
 	"main": "worker/index.ts",
 	"compatibility_date": "2026-10-06",
 	"assets": {

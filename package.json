@@ -1,5 +1,5 @@
 {
-  "name": "redlap-home",
+  "name": "goredlap-home",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -12,6 +12,7 @@
     "cf-typegen": "wrangler types"
   },
   "dependencies": {
+    "@goredlap/ui": "^0.2.0",
     "react": "^19.2.8",
     "react-dom": "^19.2.8"
   },
